@@ -42,12 +42,12 @@ collections:
 # Navigation bar links.
 navigation:
   - title: Home
-    link: /
+    link: /research-group-web/
   - title: People
-    link: /#people
+    link: /research-group-web/#people
   - title: Research
-    link: /research.html
+    link: /research-group-web/research.html
   - title: Publications
-    link: /publications.html
+    link: /research-group-web/publications.html
   - title: Code
-    link: /code.html
+    link: /research-group-web/code.html
